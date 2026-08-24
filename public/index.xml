@@ -1,41 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tech Blog</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Tech Blog</description>
+    <title>VincaTech</title>
+    <link>https://vincatech.net/</link>
+    <description>Recent content on VincaTech</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Aug 2026 09:40:07 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Test Project</title>
-      <link>http://localhost:1313/projects/test-project/</link>
-      <pubDate>Mon, 24 Aug 2026 09:40:07 +0800</pubDate>
-      <guid>http://localhost:1313/projects/test-project/</guid>
-      <description>A projectd test</description>
-    </item>
-    <item>
-      <title>Installing Hugo</title>
-      <link>http://localhost:1313/guides/installing-hugo/</link>
-      <pubDate>Mon, 24 Aug 2026 09:36:02 +0800</pubDate>
-      <guid>http://localhost:1313/guides/installing-hugo/</guid>
-      <description>Hugo setup guide</description>
-    </item>
-    <item>
-      <title>My Second Post</title>
-      <link>http://localhost:1313/posts/my-second-post/</link>
-      <pubDate>Mon, 24 Aug 2026 09:29:50 +0800</pubDate>
-      <guid>http://localhost:1313/posts/my-second-post/</guid>
-      <description>testing out templating for posts</description>
-    </item>
-    <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Mon, 24 Aug 2026 09:22:19 +0800</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Mon Aug 24 2026&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;This is a test post for this project. So far ChatGPT has made this really easy with getting everything setup this far.&lt;/p&gt;</description>
-    </item>
+    <atom:link href="https://vincatech.net/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
