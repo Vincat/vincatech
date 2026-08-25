@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Guides on Tech Blog</title>
+    <title>Guides on Vincatech</title>
     <link>http://localhost:1313/tags/guides/</link>
-    <description>Recent content in Guides on Tech Blog</description>
+    <description>Recent content in Guides on Vincatech</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 24 Aug 2026 09:36:02 +0800</lastBuildDate>

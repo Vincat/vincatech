@@ -1,6 +1,6 @@
 baseURL: "https://vincatech.net/"
 local: "en-au"
-title: "VincaTech"
+title: "Vincatech"
 theme: "PaperMod"
 
 pagination:

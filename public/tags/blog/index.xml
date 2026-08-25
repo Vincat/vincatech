@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Blog on Tech Blog</title>
-    <link>http://localhost:1313/tags/blog/</link>
-    <description>Recent content in Blog on Tech Blog</description>
+    <title>Blog on Vincatech</title>
+    <link>https://vincatech.net/tags/blog/</link>
+    <description>Recent content in Blog on Vincatech</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Aug 2026 09:36:02 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Aug 2026 12:00:16 +0800</lastBuildDate>
+    <atom:link href="https://vincatech.net/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Installing Hugo</title>
-      <link>http://localhost:1313/guides/installing-hugo/</link>
-      <pubDate>Mon, 24 Aug 2026 09:36:02 +0800</pubDate>
-      <guid>http://localhost:1313/guides/installing-hugo/</guid>
-      <description>Hugo setup guide</description>
+      <title>Starting Vincatech</title>
+      <link>https://vincatech.net/posts/starting-vincatech/</link>
+      <pubDate>Tue, 25 Aug 2026 12:00:16 +0800</pubDate>
+      <guid>https://vincatech.net/posts/starting-vincatech/</guid>
+      <description>Why another Tech Blog?</description>
     </item>
   </channel>
 </rss>
