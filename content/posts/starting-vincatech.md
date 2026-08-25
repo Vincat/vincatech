@@ -6,7 +6,6 @@ description: "Why another Tech Blog?"
 tags: [tech, blog, vincatech, ]
 ---
 
-### Why Another Tech Blog?
 I have been thinking about this little project for a while, and after the usual procrastination, I finally got started on it. With the help of my trusty assistant, ChatGPT, I got this site up and running in no time.
 
 Like a lot of projects I start, they can sometimes get abandoned and forgotten about. Let's see what happens to this one.
