@@ -12,7 +12,8 @@ params:
   env: production
   description: "A small tech blog about Linux, Raspberry Pi, Docker, homelabs and other projects."
   author: "Vincent"
-
+  mainSections:
+    - blog
   defaultTheme: auto
   disableThemeToggle: false
 

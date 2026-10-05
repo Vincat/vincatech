@@ -1,7 +1,17 @@
 {{- $result := transform.HighlightCodeBlock . -}}
+{{- $noWrap := eq (printf "%v" .Attributes.wrap) "false" -}}
+
+{{- if $noWrap }}
+<div class="codeblock-nowrap">
+{{- end }}
 
 {{- with .Attributes.title }}
 <div class="codeblock-title">{{ . }}</div>
 {{- end }}
 
 {{ $result.Wrapped }}
+
+{{- if $noWrap }}
+</div>
+{{- end }}
+

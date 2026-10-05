@@ -15,3 +15,17 @@
 .codeblock-title + .highlight pre {
     border-top-left-radius: 0;
 }
+
+/* Disable wrapping only for blocks marked wrap=false. */
+.post-content .codeblock-nowrap pre {
+    white-space: pre;
+    overflow-x: auto;
+}
+
+.post-content .codeblock-nowrap pre code {
+    white-space: pre;
+    word-break: normal;
+    overflow-wrap: normal;
+    overflow-x: visible;
+    padding-bottom: 20px;
+}
