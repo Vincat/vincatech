@@ -13,7 +13,7 @@ params:
   description: "A small tech blog about Linux, Raspberry Pi, Docker, homelabs and other projects."
   author: "Vincent"
   mainSections:
-    - blog
+    - posts
   defaultTheme: auto
   disableThemeToggle: false
 
@@ -27,6 +27,10 @@ params:
   UseHugoToc: true
 
   comments: true
+
+  assets:
+    favicon16x16: "/favicon-16x16.ico"
+    favicon32x32: "/favicon-32x32.ico"
 
   homeInfoParams:
     Title: "Tech Blog"
